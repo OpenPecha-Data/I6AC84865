@@ -1,10 +1,10 @@
-|P006686|རྫ་དཔལ་སྤྲུལ་ཨོ་རྒྱན་འཇིགས་མེད་ཆོས་ཀྱི་དབང་པོའི་གསུང་ཐོར་བུ། 
+|I6AC84865|རྫ་དཔལ་སྤྲུལ་ཨོ་རྒྱན་འཇིགས་མེད་ཆོས་ཀྱི་དབང་པོའི་གསུང་ཐོར་བུ། 
 | --- | --- 
 |Alternative Title |
 |Author| 巴珠·晋美曲旺｜巴珠活佛
 |BDRC ID | W23370
 |Creator | Google OCR
 |Number of Volumes| 1
-|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P006686)
-|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P006686/releases/download/v1/dza_pal_trul_orgyen_jikme_cho__plain_P006686.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P006686/releases/download/v1/dza_pal_trul_orgyen_jikme_cho__pages_P006686.zip)
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/I6AC84865)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/I6AC84865/releases/download/v1/dza_pal_trul_orgyen_jikme_cho__plain_I6AC84865.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/I6AC84865/releases/download/v1/dza_pal_trul_orgyen_jikme_cho__pages_I6AC84865.zip)
 |<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W23370)
